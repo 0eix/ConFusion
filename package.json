@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
-  "author": "",
+  "author": "konaesan",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.2.2"
@@ -18,5 +18,13 @@
     "jquery": "^3.2.1",
     "popper.js": "^1.12.5",
     "tether": "^1.4.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KonaeSan/ConFusion.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KonaeSan/ConFusion/issues"
+  },
+  "homepage": "https://github.com/KonaeSan/ConFusion#readme"
 }
